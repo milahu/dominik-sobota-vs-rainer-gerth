@@ -1,13 +1,7 @@
 #!/usr/bin/env bash
 
-# scripts/git-remote-add.sh
-
-set -eux
-
 owner=milahu
-repo=dominik-sobota
-
-git remote add github.com https://github.com/$owner/$repo
+repo=dominik-sobota-vs-rainer-gerth
 
 function git_remote_add_onion() {
   local remote="$1"
@@ -17,14 +11,6 @@ function git_remote_add_onion() {
   git config --add remote."$remote".proxy socks5h://127.0.0.1:9050
 }
 
-remote=darktea.onion
-url=http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/$owner/$repo
-git_remote_add_onion "$remote" "$url"
+git_remote_add_onion darktea.onion http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/$owner/$repo
 
-remote=righttoprivacy.onion
-url=http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/$owner/$repo
-git_remote_add_onion "$remote" "$url"
-
-remote=darkforest.onion
-url=http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/$owner/$repo
-git_remote_add_onion "$remote" "$url"
+git_remote_add_onion righttoprivacy.onion http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/$owner/$repo
