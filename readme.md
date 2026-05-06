@@ -342,6 +342,55 @@ Meine Freundin aus Trostberg kennt ihn von früher.
 
 
 
+## Selbstjustiz
+
+- 2026-04-15, Türkei, Kahramanmaraş. Anon tötet 3 Schüler, einen Lehrer.
+- 2026-04-07, USA, Kalifornien. [Chamel Abdulkarim](https://en.wikipedia.org/wiki/2026_Kimberly-Clark_distribution_center_fire)
+  zerstört durch Feuer ein Lagerhaus vom Papierhersteller Kimberly-Clark. Schaden: 500 Millionen Dollar.
+- 2025-07-10, Österreich, Graz. [Amoklauf in Graz 2025](https://de.wikipedia.org/wiki/Amoklauf_in_Graz_2025).
+  Anon tötet 9 Schüler, einen Lehrer.
+- 2024-12-04, USA, New York City. [Luigi Nicholas Mangione](https://www.kenklippenstein.com/p/luigis-manifesto)
+  tötet Brian Thompson, Multimillionär und Manager der Krankenversicherung UnitedHealthcare.
+- 2024-09-04, USA, Apalachee High School. Anon tötet 2 Lehrer, 2 Schüler.
+- 2022-05-24, USA, Uvalde, Robb Elementary School. Anon tötet 19 Schüler, 2 Lehrer.
+- 2020-01-10, Mexiko, Torreón. Anon tötet einen Lehrer.
+- 2019-06-01, Deutschland, [Stephan Ernst](https://de.wikipedia.org/wiki/Walter_L%C3%BCbcke#Ermordung) tötet einen Politiker (Walter Lübcke, CDU).
+- 2017-04-10, USA, San Bernardino. Anon tötet einen Lehrer, ein Kind.
+- 2017-01-18, Mexiko, Monterrey. Anon tötet einen Lehrer.
+- 2016-07-07, USA, Dallas. [Micah Xavier Johnson](https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers) tötet 5 Bullen bei einem "Black Lives Matter" Protest.
+- 2014-10-27, Estland, Viljandi. Anon tötet einen Lehrer.
+- 2014-02-03, Russland, Moskau. [Anon](https://www.welt.de/vermischtes/weltgeschehen/article124502655/Moskau-Schueler-erschiesst-Erdkundelehrer-offenbar-aus-Rache.html) tötet einen Lehrer und einen Bullen.
+- 2011-07-22, Norwegen. Anders Behring Breivik tötet 77 Menschen in Oslo und bei einem Jugendlager auf der Insel Utøya.
+- 2009-03-11, Deutschland, Winnenden. [Tim Kretschmer](https://de.wikipedia.org/wiki/Amoklauf_von_Winnenden_und_Wendlingen) tötet 9 Schüler, 3 Lehrer.
+- 2006-11-20, Deutschland, Emsdetten. [Sebastian Bosse](https://www.menschenkunde.com/emsdetten/)
+  tötet 6 Schüler, einen Hausmeister.
+- 2005-03-21, USA, Red Lake. Jeffrey Weise tötet 5 Schüler, einen Lehrer, einen Wachmann.
+- 2002-04-26, Deutschland, Erfurt. [Robert Steinhäuser](https://de.wikipedia.org/wiki/Amoklauf_von_Erfurt)
+  tötet 12 Lehrer, 2 Schüler, einen Bullen.
+- 2000-05-26, USA, Lake Worth. Nathaniel Brazill tötet einen Lehrer.
+- 1999-11-09, Deutschland, Meißen. Anon tötet einen Lehrer.
+- 1999-04-20, USA, Littleton, Columbine High School. Eric Harris und Dylan Klebold töten 12 Schüler, einen Lehrer.
+- 1998-04-24, USA; Edinboro. Andrew Wurst tötet einen Lehrer.
+- 1998-03-24, USA, Jonesboro. Mitchell Johnson und Andrew Golden töten 4 Schüler, einen Lehrer.
+- 1997-03-30, Jemen, Sanaa. Mohammad Ahman al-Naziri tötet 6 Schüler, 2 Lehrer.
+- 1996-04-03, [Ted Kaczynski](https://de.wikipedia.org/wiki/Ted_Kaczynski)
+- 1996-03-13, Schottland, Dunblane. Thomas Watt Hamilton tötet 16 Schüler, einen Lehrer.
+- 1993-01-18, USA, Kentucky. Gary Scott Pennington tötet einen Lehrer und einen Wachmann.
+- 1992-12-14, USA, Great Barrington. Wayne Lo tötet einen Lehrer.
+- 1988-12-16, USA, Virginia. Nicholas Elliot tötet einen Lehrer.
+- 1986-02-28, Schwende. [Christer Pettersson](https://en.wikipedia.org/wiki/Assassination_of_Olof_Palme) tötet einen Politiker (Olof Palme).
+- 1983-06-03, Deutschland, Amoklauf in Eppstein-Vockenhausen, Karel Charva tötet 3 Schüler, einen Lehrer, einen Bullen.
+- 1977, Deutschland. [Rote Armee Fraktion](https://de.wikipedia.org/wiki/Rote_Armee_Fraktion) tötet 33 Führungskräfte und Bullen und Soldaten.
+- 1964-06-11, Deutschland, Köln-Volkhoven, Attentat von Volkhoven, Walter Seifert tötet 8 Schüler, 2 Lehrer.
+- 1540-03-22, Deutschland, Berlin. [Hans Kohlhase](https://de.wikipedia.org/wiki/Hans_Kohlhase)
+
+Siehe auch:
+
+- [Politischer Mord](https://de.wikipedia.org/wiki/Politischer_Mord)
+- [Tyrannenmord](https://de.wikipedia.org/wiki/Tyrannenmord)
+
+
+
 ## Mirrors
 
 - [github.com/milahu/dominik-sobota](https://github.com/milahu/dominik-sobota)
