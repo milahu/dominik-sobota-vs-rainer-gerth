@@ -6,7 +6,17 @@ Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am I
 ![](img/5861a8a229727ac05adadfbedd9c259f,68fddec2.webp)
 -->
 
-Seitdem ist Dominik eingesperrt in einer Psychiatrie, vermutlich in
+Seitdem ist Dominik eingesperrt in einer Psychiatrie
+
+
+<details>
+<summary>
+vermutlich nicht in Mainkofen
+</summary>
+
+<blockquote>
+
+vermutlich nicht in
 [Mainkofen](https://www.mainkofen.de/kontakt/impressum/)
 
 ```
@@ -20,6 +30,16 @@ Tel. +49 9931 87-0
 Fax +49 9931 87-30099
 E-Mail: kontakt@mainkofen.de
 ```
+
+milahu hat schon einen Brief an diese Adresse geschrieben,
+aber der Brief wurde zurückgeschicht weil
+["Empfänger unter der angegebenen Anschrift nicht zu ermitteln"](briefe/2026-06-11.mainkofen.retour.avif)
+
+Vielleicht wurde Dominik verlegt nach Schleswig-Holstein, weil dort hat er vorher gewohnt.
+
+</blockquote>
+
+</details>
 
 Alle Mainstream-Medien bezeichnen ihn immer nur als "Dominik S. (41)" und zeigen nur verpixelte Fotos,
 während das Opfer (Dr. Rainer Gerth) vom Mainstream gefeiert wird als Held.
