@@ -175,6 +175,148 @@ Ein Urteil will Richter Volker Ziegler am 19. November verkünden.
 
 
 
+### Zeit 19.11.2024
+
+https://www.zeit.de/news/2024-11/19/prozess-um-mord-an-arzt-endet
+
+https://web.archive.org/web/20250821161259/https://www.zeit.de/news/2024-11/19/prozess-um-mord-an-arzt-endet
+
+<blockquote>
+
+Landgericht Traunstein:
+
+"Es war nur der Wahn" - Urteil nach Mord an Arzt
+
+Quelle: dpa Bayern
+
+Aktualisiert am 19. November 2024, 12:26 Uhr
+
+DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet.
+Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.
+
+<blockquote>
+
+![](img/prozess-um-mord-an-arzt-endet-image-group.webp)
+
+«Das Gift drückt» - Aus Sicht des Gerichts war der Wahn des Mannes Grund für seine Tat. © Britta Schultejans/​dpa
+
+</blockquote>
+
+"Es war nur der Wahn, der diese Tat erklärbar macht", sagt der Vorsitzende Richter Volker Ziegler.
+Einen anderen Grund für den "Mord, heimtückisch begangen" gebe es nicht.
+
+Das Landgericht Traunstein hat den Mann,
+der im April einen Arzt vor einer Klinik in Wasserburg am Inn erstochen hat,
+zur Unterbringung in einer Psychiatrie verurteilt.
+
+Täter: "Es gab keinen anderen Ausweg"
+
+Der Beschuldigte hatte nicht bestritten, den Psychiater aus der Klinik, in der er selbst zuvor auch Patient war, getötet zu haben.
+Er bedauere seine Tat und wolle sich "von ganzem Herzen entschuldigen, aber es gab keinen anderen Ausweg",
+hatte er in seinem letzten Wort vor der Urteilsverkündung gesagt.
+
+Gericht, Staatsanwaltschaft und Verteidigung gehen davon aus,
+dass er wegen einer schweren paranoiden Schizophrenie infolge jahrelangen Drogenmissbrauchs schuldunfähig ist.
+Er habe in seinem Wahn gedacht, in der Klinik werde das Essen für die Patienten vergiftet und dagegen müsse er etwas tun.
+
+Staatsanwalt spricht von "Heimtücke-Mord"
+
+Dass es sich bei dem zur Tatzeit 40 Jahre alten, psychisch kranken Mann um den Täter handle,
+sei zweifelsfrei erwiesen, sagte der Staatsanwalt in seinem Plädoyer
+und sprach von einem "Heimtücke-Mord".
+Der Verteidiger des Mannes teilte diese Einschätzung
+und schloss sich dem Antrag der Staatsanwaltschaft "vollumfassend" an.
+
+Der Beschuldigte soll einen 64 Jahre alten Oberarzt,
+als dieser nach Dienstschluss auf dem Weg zu seinem Auto war,
+mit einem Küchenmesser erstochen haben.
+Er soll die "Wahnvorstellung" gehabt haben, "dass Gift in die Nahrung gemischt würde".
+
+Emotionales Statement der Tochter
+
+Bevor der Staatsanwalt mit seinem Plädoyer begann,
+richtete sich die Tochter des Getöteten, die als Nebenklägerin in dem Verfahren auftritt,
+mit zitternder Stimme und bewegenden Worten an den Mann, der ihren Vater getötet haben soll.
+"Du hast unseren Papa umgebracht und uns dadurch den Boden unter den Füßen weggerissen", sagte sie.
+"Ich wünsche mir von Herzen, dass Du eines Tages begreifst, was Du getan und angerichtet hast."
+
+Auch die beiden Anwälte der Kinder des Getöteten schlossen sich der Staatsanwaltschaft weitgehend an
+und forderten die Unterbringung des Beschuldigten in der Psychiatrie:
+"Er ist für die Allgemeinheit gefährlich und wird es wohl auch noch viele Jahre sein."
+Der Vertreter der Schwester des Mediziners stellte dagegen die Schuldunfähigkeit des Beschuldigten infrage
+und sprach sich für eine lebenslange Freiheitsstrafe aus.
+
+Der Beschuldigte selbst sagte, er sei mit der Unterbringung in der Psychiatrie "einverstanden, um mich therapieren zu lassen".
+Er sei gesundheitlich sehr angeschlagen: "Das Gift drückt auf den Kopf" und er werde "bald in Straubing in der Forensik sterben".
+
+© dpa-infocom, dpa:241119-930-292608/5
+
+</blockquote>
+
+
+
+> Er habe in seinem Wahn gedacht, in der Klinik werde das Essen für die Patienten vergiftet und dagegen müsse er etwas tun.
+
+stimmt doch.
+die gefangenen werden systematisch vergiftet mit junkfood, damit sie krank bleiben.
+aber schulmediziner behaupten immer, ernährung hat absolut gar keinen einfluss auf die gesundheit,
+während sie zu hause heimlich jeden tag steak essen,
+weil
+<a href="https://libgen.bz/file.php?md5=9ab61fcf66e9c1cf656cbb2cef090a4e" title="Die Fleischfresser Diät. Shawn Baker. 2021">fleischfresser-diät</a>
+ist die optimale ernährung.
+
+> Der Verteidiger des Mannes teilte diese Einschätzung
+> und schloss sich dem Antrag der Staatsanwaltschaft "vollumfassend" an.
+
+typisch pflichtverteidiger... dann lieber gar kein verteidiger.
+
+ich als verteidiger hätte argumentiert:
+das systematische versagen der staatlichen "justiz" ist ein freibrief für selbstjustiz,
+tyrannenmord ist legal (adolf hitler hätte man auch töten dürfen),
+Dominik Sobota verdient freispruch,
+und schadensersatz für lebenslange folter in der psychiatrie,
+circa 500 euro schadensersatz pro tag,
+weil so viel zahlt die krankenversicherung jeden tag an die psychiatrie,
+und die geldgeilen "ärzte" erfinden jeden tag neue "gründe"
+damit ihre gefangenen möglichst lange gefangen bleiben,
+weil geld schmeckt einfach zu gut, weil diese "ärzte" sind korrupte parasiten.
+
+mir schon klar dass staatliche "richter" solche forderungen nie akzeptieren werden,
+weil "richter" sind ja selber teil der verschwörung ("wir müssen zusammenhalten gegen die", faschismus),
+also eigentlich befangen,
+also ganz sicher keine neutralen beobachter (nur tote menschen sind neutral),
+von daher sind ihre "urteile" absolut wertlos,
+und nur wieder ausdruck von klassenjustiz: "die oberschicht hat immer recht", "bullen haben immer recht",
+und der getötete folterarzt war ja auch teil dieser oberschicht, also auch ein bulle,
+also in dem sinn ist Dominik Sobota ein "copkiller",
+und das scheiss bullensystem wird ihn nie wieder rauslassen,
+also seine "lebenslange Freiheitsstrafe" kriegt er sowieso,
+egal ob mit § 211 StGB (Mord) oder mit § 63 StGB ("verrückt und gefährlich"),
+weil staatliche "Gutachter" werden einfach immer wieder behaupten "der ist verrückt und gefährlich",
+dafür brauchen die keine Beweise, da reichen die Aussagen von "Experten".
+
+Andere Gutachter gibt es nicht,
+weil wer gegen das System arbeitet der wird kaltgemacht.
+Beispiel: [Friedrich Weinberger](https://web.archive.org/web/20260305134041/https://www.psychiatrie-und-ethik.de/wpgepde/uber-uns/),
+der Gutachter der über Gustl Mollath [gesagt hat](http://www.gustl-for-help.de/analysen.html#weinberger) "der ist nicht verrückt und nicht gefährlich".
+Ich wollte auch Mal ein Gutachten von Friedrich Weinberger,
+ich habe ihn angerufen, aber er konnte mir nicht helfen,
+ich glaube er hatte Angst dass die Bullen ihn dafür kaltmachen würden.
+
+Also diese sogenannten "Gutachter" sind eigentlich Staatsanwälte,
+die immer gegen den Angeklagten argumentieren,
+und der Angeklagte kann sich nicht verteidigen,
+weil er bräuchte ein Gegengutachter, aber die gibt es nicht.
+Also wie beim Hexenprozess:
+Je mehr der Angeklagte sich wehrt, desto mehr ist er "schuldig".
+Psychiatrie ist eine Paralleljustiz, also nicht vereinbar mit einem Rechtsstaat.
+Gestern Kirche, heute Psychiatrie.
+Gestern Exorzisten, heute Psychiater.
+Gestern Religion, heute "Wissenschaft".
+Gestern Scheiterhaufen, heute Folterzelle.
+
+
+
 ### Bild 20.11.2024
 
 https://www.bild.de/regional/bayern/mord-urteil-patient-ersticht-psychiater-mit-1-99-euro-messer-673b472cf6e6dc41129253f2
