@@ -11,31 +11,23 @@ Seitdem ist Dominik eingesperrt in einer Psychiatrie
 
 <details>
 <summary>
-vermutlich nicht in Mainkofen
+Dominik ist vermutlich nicht gefangen in ...
 </summary>
 
 <blockquote>
 
-vermutlich nicht in
-[Mainkofen](https://www.mainkofen.de/kontakt/impressum/)
+Dominik ist **vermutlich nicht** gefangen in ...
+weil milahu hat schon Briefe an diese Adressen geschickt,
+aber die Briefe wurden zurückgeschicht.
 
-```
-Dominik Sobota
-Gefangener
-Bezirksklinikum Mainkofen
-Mainkofen A 3
-94469 Deggendorf
+- [Dominik Sobota, Gefangener, Bezirksklinikum Mainkofen, Mainkofen A 3, 94469 Deggendorf](briefe/retour/2026-06-11.mainkofen.retour.avif) ([impressum](https://www.mainkofen.de/patienten-besucher/lage-umgebung/))
+- [Dominik Sobota, Gefangener, Bezirkskrankenhaus, Lerchenhaid 32, 94315 Straubing](briefe/retour/2026-07-21.bkh-straubing.nicht-mehr-bei-uns.avif) ([impressum](https://www.bkh-straubing.de/))
+- [Dominik Sobota, Gefangener, Isar-Amper-Klinikum, Bräuhausstraße 5, 84416 Taufkirchen](briefe/retour/2026-07-16.iak-taufkirchen.retour.avif) ([impressum](https://kbo-iak.de/standorte/kbo-taufkirchen-vils/kbo-klinik-fuer-forensische-psychiatrie-und-psychotherapie))
 
-Tel. +49 9931 87-0
-Fax +49 9931 87-30099
-E-Mail: kontakt@mainkofen.de
-```
+Dominik ist **vielleicht** gefangen in
 
-milahu hat schon einen Brief an diese Adresse geschrieben,
-aber der Brief wurde zurückgeschicht weil
-["Empfänger unter der angegebenen Anschrift nicht zu ermitteln"](briefe/2026-06-11.mainkofen.retour.avif)
-
-Vielleicht wurde Dominik verlegt nach Schleswig-Holstein, weil dort hat er vorher gewohnt.
+- Dominik Sobota, Gefangener, Isar-Amper-Klinikum, Vockestraße 72, 85540 Haar ([impressum](https://kbo-iak.de/standorte/kbo-isar-amper-klinikum-haar))
+- Dominik Sobota, Gefangener, AMEOS Krankenhaus, Wiesenhof 10, 23730 Neustadt in Holstein ([impressum](https://www.ameos.de/klinikum-neustadt/impressum/))
 
 </blockquote>
 
