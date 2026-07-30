@@ -23,11 +23,11 @@ aber die Briefe wurden zurückgeschicht.
 - [Dominik Sobota, Gefangener, Bezirksklinikum Mainkofen, Mainkofen A 3, 94469 Deggendorf](briefe/retour/2026-06-11.mainkofen.retour.avif) ([impressum](https://www.mainkofen.de/patienten-besucher/lage-umgebung/))
 - [Dominik Sobota, Gefangener, Bezirkskrankenhaus, Lerchenhaid 32, 94315 Straubing](briefe/retour/2026-07-21.bkh-straubing.nicht-mehr-bei-uns.avif) ([impressum](https://www.bkh-straubing.de/))
 - [Dominik Sobota, Gefangener, Isar-Amper-Klinikum, Bräuhausstraße 5, 84416 Taufkirchen](briefe/retour/2026-07-16.iak-taufkirchen.retour.avif) ([impressum](https://kbo-iak.de/standorte/kbo-taufkirchen-vils/kbo-klinik-fuer-forensische-psychiatrie-und-psychotherapie))
+- [Dominik Sobota, Gefangener, AMEOS Krankenhaus, Wiesenhof 10, 23730 Neustadt in Holstein](briefe/retour/2026-07-27.ameos-holstein.retour.avif) ([impressum](https://www.ameos.de/klinikum-neustadt/impressum/))
 
 Dominik ist **vielleicht** gefangen in
 
 - Dominik Sobota, Gefangener, Isar-Amper-Klinikum, Vockestraße 72, 85540 Haar ([impressum](https://kbo-iak.de/standorte/kbo-isar-amper-klinikum-haar))
-- Dominik Sobota, Gefangener, AMEOS Krankenhaus, Wiesenhof 10, 23730 Neustadt in Holstein ([impressum](https://www.ameos.de/klinikum-neustadt/impressum/))
 
 </blockquote>
 
