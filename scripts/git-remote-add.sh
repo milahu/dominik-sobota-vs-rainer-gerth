@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 owner=milahu
-repo=dominik-sobota-vs-rainer-gerth
+repo=dominik-sobotta-vs-rainer-gerth
 
 function git_remote_add_onion() {
   local remote="$1"

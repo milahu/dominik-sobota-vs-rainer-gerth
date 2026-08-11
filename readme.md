@@ -1,6 +1,6 @@
-# Dominik Sobota
+# Dominik Sobotta
 
-Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn
+Am 8. April 2024 ersticht Dominik Sobotta den Dr. Rainer Gerth in Wasserburg am Inn
 
 <!--
 ![](img/5861a8a229727ac05adadfbedd9c259f,68fddec2.webp)
@@ -10,8 +10,8 @@ Seitdem ist Dominik eingesperrt in einer Psychiatrie
 
 Alle Mainstream-Medien bezeichnen ihn immer nur als "Dominik S. (41)" und zeigen nur verpixelte Fotos,
 während das Opfer (Dr. Rainer Gerth) vom Mainstream gefeiert wird als Held.
-Scheiss auf den Scheiss, die Realität ist genau andersrum, Dr. Rainer Gerth ist der Täter und Dominik Sobota ist das Opfer.
-Dominik Sobota ist unschuldig, weil Tyrannenmord ist legal.
+Scheiss auf den Scheiss, die Realität ist genau andersrum, Dr. Rainer Gerth ist der Täter und Dominik Sobotta ist das Opfer.
+Dominik Sobotta ist unschuldig, weil Tyrannenmord ist legal.
 
 Wer selber noch nie Gefangener in einer Psychiatrie war,
 der darf hier nicht mitreden, der soll hier schön seine Fresse halten.
@@ -307,7 +307,7 @@ typisch pflichtverteidiger... dann lieber gar kein verteidiger.
 ich als verteidiger hätte argumentiert:
 das systematische versagen der staatlichen "justiz" ist ein freibrief für selbstjustiz,
 tyrannenmord ist legal (adolf hitler hätte man auch töten dürfen),
-Dominik Sobota verdient freispruch,
+Dominik Sobotta verdient freispruch,
 und schadensersatz für lebenslange folter in der psychiatrie,
 circa 500 euro schadensersatz pro tag,
 weil so viel zahlt die krankenversicherung jeden tag an die psychiatrie,
@@ -322,7 +322,7 @@ also ganz sicher keine neutralen beobachter (nur tote menschen sind neutral),
 von daher sind ihre "urteile" absolut wertlos,
 und nur wieder ausdruck von klassenjustiz: "die oberschicht hat immer recht", "bullen haben immer recht",
 und der getötete folterarzt war ja auch teil dieser oberschicht, also auch ein bulle,
-also in dem sinn ist Dominik Sobota ein "copkiller",
+also in dem sinn ist Dominik Sobotta ein "copkiller",
 und das scheiss bullensystem wird ihn nie wieder rauslassen,
 also seine "lebenslange Freiheitsstrafe" kriegt er sowieso,
 egal ob mit § 211 StGB (Mord) oder mit § 63 StGB ("verrückt und gefährlich"),
@@ -589,7 +589,7 @@ Siehe auch:
 
 ## Mirrors
 
-- [github.com/milahu/dominik-sobota](https://github.com/milahu/dominik-sobota)
-- [righttoprivacy.onion/milahu/dominik-sobota](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/dominik-sobota)
-- [darktea.onion/milahu/dominik-sobota](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/dominik-sobota)
-- [darkforest.onion/milahu/dominik-sobota](http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/dominik-sobota)
+- [github.com/milahu/dominik-sobotta](https://github.com/milahu/dominik-sobotta)
+- [righttoprivacy.onion/milahu/dominik-sobotta](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/dominik-sobotta)
+- [darktea.onion/milahu/dominik-sobotta](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/dominik-sobotta)
+- [darkforest.onion/milahu/dominik-sobotta](http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/dominik-sobotta)
